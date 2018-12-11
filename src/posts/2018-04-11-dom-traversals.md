@@ -41,7 +41,7 @@ Can you guess which method is more efficient?
 </div>
 ```
 
-You probably know the answer—it's always easier to move from an element to another (compared do doing a full search). That's why we traverse the DOM.
+You probably know the answer—it's always easier to move from an element to another (compared to doing a full search). That's why we traverse the DOM.
 
 You can traverse in three directions:
 
